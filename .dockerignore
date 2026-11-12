@@ -1,0 +1,23 @@
+# Git and VCS
+.git
+.gitignore
+
+# Android / Gradle build caches and outputs
+.gradle/
+build/
+app/build/
+*.hprof
+.idea/
+*.iml
+
+# Environment secrets and local files
+.env
+local.properties
+debug.keystore
+debug.keystore.base64
+my-upload-key.jks
+
+# Logs and temp files
+*.log
+.DS_Store
+Thumbs.db

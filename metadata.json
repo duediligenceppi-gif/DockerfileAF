@@ -1,0 +1,6 @@
+{
+  "name": "AgentForge",
+  "description": "Smart workspace examiner and container configuration forge for Google Cloud Run",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
